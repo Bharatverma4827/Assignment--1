@@ -1,0 +1,5 @@
+c = int(input("Enter a no. C\n"))
+d = int(input("Enter a no. D\n"))
+print("No. C is:",c)
+print("No. D is:",d)
+print("remainder is when C divide by D:",c%d)
